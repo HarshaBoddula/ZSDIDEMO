@@ -1,0 +1,14 @@
+{
+    "ServiceName_1": {
+        "object_owner": {
+            "roles": [
+                "DEMOROLE"
+            ]
+        },
+        "application_user": {
+            "roles": [
+                "DEMOROLE"
+            ]
+        }
+    }
+}

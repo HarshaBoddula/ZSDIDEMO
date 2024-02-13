@@ -1,0 +1,4 @@
+VIEW "Regions"
+    (REGION, DESCRIPTION)
+    as select REGION, DESCRIPTION
+    from "DEMOSCHEMA".;
